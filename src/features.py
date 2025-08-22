@@ -9,8 +9,8 @@ def add_basic_features(df: pd.DataFrame) -> pd.DataFrame:
     # Derived areas
     X["GrLivArea_per_LotArea"] = X["GrLivArea"] / (X["LotArea"] + 1)
     X["TotalSF"] = X["TotalBsmtSF"] + X["1stFlrSF"] + X["2ndFlrSF"]
+    
     # Baths aggregate (uses 0.5 weight as your baseline)
-
     bath_cols = ["FullBath", "HalfBath", "BsmtFullBath", "BsmtHalfBath"]
     X[bath_cols] = X[bath_cols].fillna(0)
     X["TotalBaths"] = X["FullBath"] + 0.5*X["HalfBath"] + X["BsmtFullBath"] + 0.5*X["BsmtHalfBath"]
