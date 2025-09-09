@@ -1,0 +1,11 @@
+{
+  "iterations": 1500,
+  "learning_rate": 0.05,
+  "depth": 6,
+  "l2_leaf_reg": 5,
+  "loss_function": "RMSE",
+  "verbose": 0,
+  "subsample": 1.0,
+  "colsample_bylevel": 0.8,
+  "random_state": 42
+}
