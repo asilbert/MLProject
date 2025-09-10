@@ -1,7 +1,7 @@
 Final CatBoost Model Performance
-Train RMSE: 5,591, R²: 0.994
- Test RMSE: 18,940, R²: 0.942
+Train RMSE: 5,549, R²: 0.994
+ Test RMSE: 18,786, R²: 0.943
 
 5-fold CV summary (final model)
-                model  cv_rmse_mean  cv_rmse_std    r2_cv  r2_full
-CatBoost (final, kf5)  19503.997549   2787.90696 0.931021 0.993326
+                model  cv_rmse_mean  cv_rmse_std   r2_cv  r2_full
+CatBoost (final, kf5)  19430.356982  2992.473017 0.93132 0.993178
