@@ -1,11 +1,14 @@
 {
-  "iterations": 1500,
-  "learning_rate": 0.05,
-  "depth": 6,
-  "l2_leaf_reg": 5,
+  "iterations": 3525,
+  "learning_rate": 0.04646200613219409,
+  "depth": 5,
+  "l2_leaf_reg": 2.79206264384178,
   "loss_function": "RMSE",
   "verbose": 0,
-  "subsample": 1.0,
-  "colsample_bylevel": 0.8,
-  "random_state": 42
+  "random_strength": 1.9079506260866257,
+  "bagging_temperature": 2.7192215619579607,
+  "subsample": 0.7737417681056152,
+  "colsample_bylevel": 0.8591483762431275,
+  "random_state": 42,
+  "min_data_in_leaf": 185
 }

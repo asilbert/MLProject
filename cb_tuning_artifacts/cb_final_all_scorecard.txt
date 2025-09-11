@@ -1,0 +1,20 @@
+CatBoost Final Model (ALL data) — Scorecard
+Params file: cb_best_params.json
+3-fold CV RMSE: 19,229 ± 2,329
+
+Top 15 permutation importances (mean):
+  TotalSF_x_Qual: 30830.570 ± 1292.346
+  TotalSF: 10266.418 ± 701.496
+  OverallQual: 6902.980 ± 429.080
+  LotArea: 6528.187 ± 322.000
+  OverallCond: 5514.170 ± 272.684
+  Neighborhood: 5313.833 ± 106.932
+  GrLivArea: 4991.231 ± 251.105
+  YearRemodAdd: 4706.923 ± 360.390
+  GarageYrBlt: 4537.577 ± 230.173
+  GarageArea: 4458.491 ± 213.449
+  TotalBaths: 4300.828 ± 175.443
+  1stFlrSF: 3556.242 ± 337.193
+  HouseAgeSinceRemod: 3285.424 ± 171.563
+  BsmtFinSF1: 3016.611 ± 114.104
+  FireplaceQu: 2872.329 ± 186.959
