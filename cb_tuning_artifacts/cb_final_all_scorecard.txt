@@ -1,20 +1,20 @@
 CatBoost Final Model (ALL data) — Scorecard
 Params file: cb_best_params.json
-3-fold CV RMSE: 19,229 ± 2,329
+3-fold CV RMSE: 19,341 ± 2,819
 
 Top 15 permutation importances (mean):
-  TotalSF_x_Qual: 30830.570 ± 1292.346
-  TotalSF: 10266.418 ± 701.496
-  OverallQual: 6902.980 ± 429.080
-  LotArea: 6528.187 ± 322.000
-  OverallCond: 5514.170 ± 272.684
-  Neighborhood: 5313.833 ± 106.932
-  GrLivArea: 4991.231 ± 251.105
-  YearRemodAdd: 4706.923 ± 360.390
-  GarageYrBlt: 4537.577 ± 230.173
-  GarageArea: 4458.491 ± 213.449
-  TotalBaths: 4300.828 ± 175.443
-  1stFlrSF: 3556.242 ± 337.193
-  HouseAgeSinceRemod: 3285.424 ± 171.563
-  BsmtFinSF1: 3016.611 ± 114.104
-  FireplaceQu: 2872.329 ± 186.959
+  TotalSF_x_Qual: 37780.312 ± 1544.713
+  TotalSF: 11905.112 ± 719.890
+  LotArea: 6391.715 ± 279.131
+  TotalBaths: 5592.300 ± 243.571
+  Neighborhood: 5048.151 ± 142.462
+  OverallCond: 5032.725 ± 446.394
+  GrLivArea: 4135.925 ± 283.572
+  HouseAgeSinceRemod: 3976.721 ± 369.745
+  GarageYrBlt: 3800.638 ± 175.433
+  OverallQual: 3714.968 ± 266.991
+  KitchenQual: 3680.514 ± 474.459
+  YearRemodAdd: 3402.420 ± 237.272
+  GarageArea: 3266.426 ± 128.496
+  BsmtUnfSF: 3050.596 ± 176.905
+  GarageCars: 2984.851 ± 190.152

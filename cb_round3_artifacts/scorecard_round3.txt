@@ -1,0 +1,18 @@
+=== Round-3 Best Params Holdout Performance ===
+Train RMSE: 142,471, R²: -2.698
+ Test RMSE: 148,977, R²: -2.608
+
+Best params:
+{
+  "depth": 4,
+  "iterations": 4198,
+  "learning_rate": 0.028453216977912,
+  "l2_leaf_reg": 1.2455084654536597,
+  "subsample": 0.7037219544608652,
+  "colsample_bylevel": 0.49465173897875225,
+  "bagging_temperature": 1.4649092749910624,
+  "random_strength": 0.4765007088250817,
+  "min_data_in_leaf": 165
+}
+
+Monotone enabled: True

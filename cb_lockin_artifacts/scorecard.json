@@ -1,0 +1,20 @@
+{
+  "winner": "r1",
+  "cv5_r1": "19,164 \u00b1 2,321",
+  "cv5_r2": "19,251 \u00b1 2,521",
+  "train_rmse": "7,095",
+  "train_r2": 0.9908292389309289,
+  "test_rmse": "19,530",
+  "test_r2": 0.9379958759240353,
+  "params_used": {
+    "depth": 5,
+    "iterations": 6935,
+    "learning_rate": 0.025848406661638512,
+    "l2_leaf_reg": 5.398065963881286,
+    "subsample": 0.822172860442869,
+    "colsample_bylevel": 0.6815951076306457,
+    "bagging_temperature": 0.47001460667988826,
+    "random_strength": 0.2988430979118698,
+    "min_data_in_leaf": 164
+  }
+}

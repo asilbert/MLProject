@@ -1,3 +1,3 @@
 Final CatBoost Model Performance
-Train RMSE: 2,579, R²: 0.999
- Test RMSE: 18,668, R²: 0.943
+Train RMSE: 2,990, R²: 0.998
+ Test RMSE: 18,721, R²: 0.943
