@@ -1,16 +1,16 @@
 {
-  "depth": 5,
-  "iterations": 6107,
-  "learning_rate": 0.04114841799323371,
-  "l2_leaf_reg": 2.9649089915459723,
-  "subsample": 0.7172260946958362,
-  "colsample_bylevel": 0.6721912677601117,
-  "bagging_temperature": 0.8590913422717212,
-  "random_strength": 1.1125031582665321,
-  "min_data_in_leaf": 277,
+  "depth": 6,
+  "iterations": 7263,
+  "learning_rate": 0.030381122949060188,
+  "l2_leaf_reg": 3.1285596254910013,
+  "subsample": 0.8141578380449733,
+  "colsample_bylevel": 0.7243358157487125,
+  "bagging_temperature": 2.735629248665263,
+  "random_strength": 1.341874700774428,
+  "min_data_in_leaf": 168,
   "loss_function": "RMSE",
   "random_state": 42,
   "verbose": 0,
-  "mean_rmse": 19135.339664455274,
-  "std_rmse": 3465.531242187288
+  "mean_rmse": 19027.196056326935,
+  "std_rmse": 3499.45743121599
 }

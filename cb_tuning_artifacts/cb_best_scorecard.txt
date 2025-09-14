@@ -1,17 +1,17 @@
 CatBoost Best Model (tuned) Performance
-Train RMSE: 4,851, R²: 0.996
- Test RMSE: 18,937, R²: 0.942
+Train RMSE: 5,130, R²: 0.995
+ Test RMSE: 18,276, R²: 0.946
 
 Best Parameters:
   depth: 5
-  iterations: 6935
-  learning_rate: 0.025848406661638512
-  l2_leaf_reg: 5.398065963881286
-  subsample: 0.822172860442869
-  colsample_bylevel: 0.6815951076306457
-  bagging_temperature: 0.47001460667988826
-  random_strength: 0.2988430979118698
-  min_data_in_leaf: 164
+  iterations: 6812
+  learning_rate: 0.016999238514593926
+  l2_leaf_reg: 3.8248378043149067
+  subsample: 0.9720566695624413
+  colsample_bylevel: 0.7494389460963075
+  bagging_temperature: 1.1312265106941262
+  random_strength: 1.6201876960970338
+  min_data_in_leaf: 146
   loss_function: RMSE
   random_state: 42
   verbose: 0

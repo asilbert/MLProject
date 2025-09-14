@@ -1,12 +1,12 @@
 {
   "depth": 5,
-  "iterations": 6681,
-  "learning_rate": 0.019940910429599504,
-  "l2_leaf_reg": 3.977831223364738,
-  "subsample": 0.8047864470816988,
-  "colsample_bylevel": 0.4706888095870918,
-  "bagging_temperature": 0.5540616404062731,
-  "random_strength": 0.5007087748016813,
-  "min_data_in_leaf": 131,
+  "iterations": 6573,
+  "learning_rate": 0.025813022546446848,
+  "l2_leaf_reg": 0.047690041520103914,
+  "subsample": 0.6102457202691892,
+  "colsample_bylevel": 0.7589192081570778,
+  "bagging_temperature": 1.4804977813083688,
+  "random_strength": 0.5785384693329824,
+  "min_data_in_leaf": 65,
   "fe_variant": "base"
 }
